@@ -937,6 +937,7 @@
                     <file type="jar" path="maven:/io.prestosql:presto-jdbc:RELEASE"/>
 
                     <parameter name="use-search-string-escape" value="true"/>
+                    <parameter name="krb5.enabled" value="true"/>
                 </driver>
 
                 <!-- CUBRID -->
